@@ -2,9 +2,9 @@
 
 <h3 align=center>Link to App: </h3>
 
-### Tecnologias used:
--React JS
--TailwindCss
+### Tecnologies used:
+- React JS
+- TailwindCss
 
 ## User Stories
 
