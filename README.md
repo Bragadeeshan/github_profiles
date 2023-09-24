@@ -4,6 +4,8 @@
 <p align=center>
   <img src="assets/assetSS.png" width=800px />
 </p>
+
+
 ### Tecnologies used:
 - React JS
 - TailwindCss
