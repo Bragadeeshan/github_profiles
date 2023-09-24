@@ -1,6 +1,6 @@
 <h1 align=center >Github Profiles</h1>
 
-<h3 align=center>Link to App: github-profiles-bragadeeshan.netlify.app </h3>
+<h3 align=center>Link to App: https://github-profiles-bragadeeshan.netlify.app </h3>
 <p align=center>
   <img src="assets/assetSS.png" width=800px />
 </p>
