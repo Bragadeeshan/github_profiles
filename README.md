@@ -2,7 +2,7 @@
 
 <h3 align=center>Link to App: github-profiles-bragadeeshan.netlify.app </h3>
 <p align=center>
-  <img src="assets/" width=800px />
+  <img src="assets/assetSS" width=800px />
 </p>
 ### Tecnologies used:
 - React JS
