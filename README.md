@@ -1,7 +1,9 @@
 <h1 align=center >Github Profiles</h1>
 
-<h3 align=center>Link to App: </h3>
-
+<h3 align=center>Link to App: github-profiles-bragadeeshan.netlify.app </h3>
+<p align=center>
+  <img src="assets/" width=800px />
+</p>
 ### Tecnologies used:
 - React JS
 - TailwindCss
